@@ -1,1 +1,36 @@
-
+{
+    "layers": {
+      "viirs": {
+        "itemid": "",
+        "idx": 0
+      },
+      "wildfire_perimeter": {
+        "itemid": "",
+        "idx": 1
+      },
+      "nws_watches_warnings": {
+        "itemid": "",
+        "idx": 5
+      },
+      "us_drought_current": {
+        "itemid": "",
+        "idx": 0
+      },
+      "smoke_forecast": {
+        "itemid": "",
+        "idx": 0
+      },
+      "usgs_seismic_data": {
+        "itemid": "",
+        "idx": 0
+      },
+      "severe_weather_forecast_day1" : {
+        "itemid" : "",
+        "idx" : 2,
+      },
+      "local_storm_reports" : {
+        "itemid" : "",
+        "idx" : 0
+      }
+    }
+  }
