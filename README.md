@@ -2,6 +2,9 @@
 
 A collection of sample code used and referenced in ArcGIS Blog articles written by Professional Services.
 
+- [Integrating The ArcGIS API for Python and Survey123 with Azure Functions](https://www.esri.com/arcgis-blog/products/api-python/developers/integrating-the-arcgis-api-for-python-and-survey123-with-azure-functions)
+- [Integrating ArcGIS Survy123 with AWS Lambda](https://www.esri.com/arcgis-blog/products/survey123/developers/integrating-arcgis-survey123-with-aws-lambda)
+
 
 ## License
 Copyright © 2017-2021 Esri
