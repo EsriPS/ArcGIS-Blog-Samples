@@ -1,4 +1,4 @@
-# Azure Functions - ArcGIS Examples
+# Integrating Azure Functions with ArcGIS - Examples
 
 This repo includes the code for the two examples outlined in the following blog post:
 
